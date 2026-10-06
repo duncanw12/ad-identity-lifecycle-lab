@@ -1,0 +1,5 @@
+"Name","SamAccountName","Enabled","Title","whenCreated","LastLogonDate","Groups","Stale"
+"Ava Brooks","abrooks","True","FrontDesk","10/6/2026 1:33:54 PM","10/6/2026 3:08:56 PM","GG_FrontDesk","False"
+"Liam Carter","lcarter","True","OfficeManager","10/6/2026 1:33:54 PM","10/6/2026 3:07:00 PM","GG_OfficeManager","False"
+"Noah Diaz","ndiaz","True","Helpdesk","10/6/2026 1:33:54 PM","10/6/2026 3:16:01 PM","GG_Helpdesk","False"
+"Mia Evans","mevans","False","FrontDesk","10/6/2026 1:33:54 PM",,"","True"
