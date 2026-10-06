@@ -1,0 +1,14 @@
+2026-10-06T13:33:53 [administrator] Lab OUs, groups and helpdesk delegation created
+2026-10-06T13:33:54 [administrator] CREATED abrooks role=FrontDesk (temp password issued, change at logon)
+2026-10-06T13:33:54 [administrator] CREATED lcarter role=OfficeManager (temp password issued, change at logon)
+2026-10-06T13:33:54 [administrator] CREATED ndiaz role=Helpdesk (temp password issued, change at logon)
+2026-10-06T13:33:54 [administrator] CREATED mevans role=FrontDesk (temp password issued, change at logon)
+2026-10-06T13:33:54 [administrator] RESET abrooks ticket=INC1001
+2026-10-06T13:33:54 [administrator] DISABLED mevans ticket=REQ2001 removed from: GG_FrontDesk
+2026-10-06T13:33:54 [administrator] Access report exported
+2026-10-06T13:39:30 [administrator] Lab OUs, groups and helpdesk delegation created
+2026-10-06T13:39:30 [administrator] SKIP abrooks exists
+2026-10-06T13:39:30 [administrator] SKIP lcarter exists
+2026-10-06T13:39:31 [administrator] SKIP ndiaz exists
+2026-10-06T13:39:31 [administrator] SKIP mevans exists
+2026-10-06T15:22:45 [administrator] Access report exported
